@@ -1,0 +1,13 @@
+.footer{
+  position: absolute;
+  bottom: 0;
+  background-color: #ecf0f1;
+  width: 100%;
+  text-align: center;
+  line-height: 35px;
+}
+
+.bg-color{
+  height: 100vh;
+  background:linear-gradient(cyan,blue);
+}
