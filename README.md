@@ -11,7 +11,7 @@ ORM & Persistence: Spring Data JPA
 
 API Development: RESTful Web Services
 
-Configuration: application.properties / application.yml
+Configuration: application.properties 
 
 Testing Tool: Postman
 
